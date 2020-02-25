@@ -14,8 +14,5 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/havoc_grus.mk
+	$(LOCAL_DIR)/pixys_grus.mk
 
-COMMON_LUNCH_CHOICES := \
-    havoc_grus-userdebug \
-    havoc_grus-eng
